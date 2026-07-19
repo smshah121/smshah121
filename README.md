@@ -57,14 +57,14 @@ Building scalable web applications and intelligent software using modern technol
 ## 🏗 Featured Projects
 
 ### 🔹 Autonomous Degree Attestation and Verification Platform
-- Smart Contracts
-- Blockchain
-- AI OCR
-- Google OAuth
-- Stripe
-- React
-- NestJS
-- PostgreSQL
+- Smart Contract Integration (Solidity)
+- Student & Admin Dashboard
+- Google OAuth Authentication
+- AI-Powered OCR Verification
+- Blockchain-Based Degree Attestation
+- Stripe Payment Integration
+- Secure PDF Degree Generation with SHA-256 Hash and QR Code.
+- Degree Verification Management
 
 ---
 
