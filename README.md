@@ -29,7 +29,7 @@ Building scalable web applications and intelligent software using modern technol
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 </p>
 
 ### Database
