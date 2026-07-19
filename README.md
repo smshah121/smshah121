@@ -72,8 +72,22 @@ Building scalable web applications and intelligent software using modern technol
 - Student & Instructor Dashboard
 - Role-Based Access Control (RBAC)
 - JWT Authentication
-- Course Creation & Management
+- Course Management
 - Student Course Enrollment
+- Responsive UI
+
+---
+
+### 🔹 E-Commerce Platform
+
+- Customer, Seller & Admin Dashboard
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- Product Management (CRUD)
+- Stripe Payment Integration
+- Order Management
+- Google OAuth
+- Product Search & Filtering
 - Responsive UI
 
 ---
@@ -89,18 +103,6 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
-### 🔹 E-Commerce Platform
-
-- Multi-role Authentication
-- Stripe Payments
-- Seller/Customer/Admin Dashboard
-- Google OAuth
-- Cloudinary
-- React
-- NestJS
-- PostgreSQL
-
----
 
 ## 📈 GitHub Stats
 
