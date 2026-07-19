@@ -24,7 +24,7 @@ Building scalable web applications and intelligent software using modern technol
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
 </p>
 
 ### Backend
