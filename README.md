@@ -115,7 +115,7 @@ Building scalable web applications and intelligent software using modern technol
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:smshah.2003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
