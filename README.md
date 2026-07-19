@@ -126,4 +126,4 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
-> *"Building software that solves real-world problems through Full-Stack Development, AI, Machine Learning & Blockchain."*
+> *"Building scalable, secure, and user-focused full-stack applications that solve real-world problems.."*
