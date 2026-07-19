@@ -65,6 +65,7 @@ Building scalable web applications and intelligent software using modern technol
 - Stripe Payment Integration
 - Secure PDF Degree Generation with SHA-256 Hash and QR Code.
 - Degree Verification Management
+- Responsive UI
 
 ---
 
@@ -94,12 +95,14 @@ Building scalable web applications and intelligent software using modern technol
 
 ### 🔹 AI Credit Card Fraud Detection
 
-- Machine Learning
-- Logistic Regression
-- FastAPI
-- Python
-- NestJS
-- PostgreSQL
+- Credit Card Fraud Detection using Machine Learning
+- Trained on 284K+ Kaggle Transaction Dataset
+- Logistic Regression Classification Model
+- Data Preprocessing & Feature Engineering
+- NestJS Feature Vector Generation
+- FastAPI Inference API
+- Real-Time Fraud Prediction
+- Responsive UI
 
 ---
 
