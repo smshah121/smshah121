@@ -58,6 +58,7 @@ Building scalable web applications and intelligent software using modern technol
 
 ### 🔹 Autonomous Degree Attestation and Verification Platform
 - Smart Contract Integration (Solidity)
+- Role-Based Access Control (RBAC)
 - Student & Admin Dashboard
 - Google OAuth Authentication
 - AI-Powered OCR Verification
@@ -65,6 +66,7 @@ Building scalable web applications and intelligent software using modern technol
 - Stripe Payment Integration
 - Secure PDF Degree Generation with SHA-256 Hash and QR Code.
 - Degree Verification Management
+- Cloudinary File Storage
 
 ---
 
@@ -74,6 +76,7 @@ Building scalable web applications and intelligent software using modern technol
 - JWT Authentication
 - Course & Lecture Management
 - Student Course Enrollment
+- Cloudinary File Storage
 
 ---
 
@@ -88,6 +91,8 @@ Building scalable web applications and intelligent software using modern technol
 - Google OAuth
 - Product Search & Filtering
 - Shopping Cart
+- Seller Application & Approval System
+- Cloudinary File Storage
 
 ---
 
@@ -97,8 +102,8 @@ Building scalable web applications and intelligent software using modern technol
 - Trained on 284K+ Kaggle Transaction Dataset
 - Logistic Regression Classification Model
 - Data Preprocessing & Feature Engineering
-- NestJS Feature Vector Generation
-- FastAPI Inference API
+- NestJS-Based Feature Vector Generation
+- FastAPI Prediction API
 - Real-Time Fraud Prediction
 
 ---
