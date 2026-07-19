@@ -65,7 +65,6 @@ Building scalable web applications and intelligent software using modern technol
 - Stripe Payment Integration
 - Secure PDF Degree Generation with SHA-256 Hash and QR Code.
 - Degree Verification Management
-- Responsive UI
 
 ---
 
@@ -73,9 +72,8 @@ Building scalable web applications and intelligent software using modern technol
 - Student & Instructor Dashboard
 - Role-Based Access Control (RBAC)
 - JWT Authentication
-- Course Management
+- Course & Lecture Management
 - Student Course Enrollment
-- Responsive UI
 
 ---
 
@@ -89,7 +87,6 @@ Building scalable web applications and intelligent software using modern technol
 - Order Management
 - Google OAuth
 - Product Search & Filtering
-- Responsive UI
 
 ---
 
@@ -102,7 +99,6 @@ Building scalable web applications and intelligent software using modern technol
 - NestJS Feature Vector Generation
 - FastAPI Inference API
 - Real-Time Fraud Prediction
-- Responsive UI
 
 ---
 
