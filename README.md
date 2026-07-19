@@ -24,12 +24,12 @@ Building scalable web applications and intelligent software using modern technol
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts" />
 </p>
 
 ### Database
