@@ -95,8 +95,7 @@ Building scalable web applications and intelligent software using modern technol
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smshah121&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smshah121&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smshah121&theme=github-dark&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
