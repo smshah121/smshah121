@@ -68,6 +68,16 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
+### 🔹 Learning Management System
+- Student & Instructor Dashboard
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- Course Creation & Management
+- Student Course Enrollment
+- Responsive UI
+
+---
+
 ### 🔹 AI Credit Card Fraud Detection
 
 - Machine Learning
