@@ -49,7 +49,7 @@ Building scalable web applications and intelligent software using modern technol
 
 ### Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,azure,heroku" />
 </p>
 
 ---
