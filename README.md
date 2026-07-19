@@ -77,7 +77,7 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
-### 🔹 E-Commerce Platform
+### 🔹 PriceTag – Multi-Vendor Marketplace for Tech Accessories
 
 - Customer, Seller & Admin Dashboard
 - Role-Based Access Control (RBAC)
@@ -87,6 +87,7 @@ Building scalable web applications and intelligent software using modern technol
 - Order Management
 - Google OAuth
 - Product Search & Filtering
+- Shopping Cart
 
 ---
 
