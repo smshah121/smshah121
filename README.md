@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Momin Ali Shah</h1>
 
 <h3 align="center">
-Full-Stack Developer • Software Engineer
+Full-Stack Developer | Software Engineer
 </h3>
 
 <p align="center">
