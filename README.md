@@ -70,16 +70,6 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
-### 🔹 Learning Management System
-- Student & Instructor Dashboard
-- Role-Based Access Control (RBAC)
-- JWT Authentication
-- Course & Lecture Management
-- Student Course Enrollment
-- Cloudinary File Storage
-
----
-
 ### 🔹 PriceTag – Multi-Vendor Marketplace for Tech Accessories
 
 - Customer, Seller & Admin Dashboard
@@ -92,6 +82,16 @@ Building scalable web applications and intelligent software using modern technol
 - Product Search & Filtering
 - Shopping Cart
 - Seller Application & Approval System
+- Cloudinary File Storage
+
+---
+
+### 🔹 Learning Management System
+- Student & Instructor Dashboard
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- Course & Lecture Management
+- Student Course Enrollment
 - Cloudinary File Storage
 
 ---
