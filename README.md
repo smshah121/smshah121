@@ -96,6 +96,16 @@ Building scalable web applications and intelligent software using modern technol
 
 ---
 
+### 🔹 Pixora – Media Discovery & Collection Platform
+- External API Integration for Photos, Videos & GIFs
+- JWT & Google OAuth Authentication
+- Media Search & Discovery
+- Custom Named Collections
+- Save Media to Collections
+- PostgreSQL Database
+
+---
+  
 ### 🔹 AI Credit Card Fraud Detection
 
 - Credit Card Fraud Detection using Machine Learning
