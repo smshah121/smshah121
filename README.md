@@ -119,16 +119,6 @@ Building scalable web applications and intelligent software using modern technol
 ---
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smshah121&theme=github-dark&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=smshah121&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
