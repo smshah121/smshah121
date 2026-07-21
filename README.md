@@ -119,7 +119,6 @@ Building scalable web applications and intelligent software using modern technol
 ---
 
 
----
 
 ## 🌐 Connect With Me
 
